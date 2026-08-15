@@ -1,0 +1,9 @@
+.vscode/
+_build/
+re
+lectures/.ipynb_checkpoints/
+lectures/*.gif
+sys
+edoras.md
+grading-fall26/*
+.venv-jb2/*
