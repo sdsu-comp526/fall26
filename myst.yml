@@ -1,12 +1,13 @@
 version: 1
+
 project:
   title: Computational Methods for Scientists Fall 26
   authors:
     - name: Valeria Barra
   exclude:
-    - .venv-jb2/*
+    - .venv-jb2/**
     - README.md
-    - grading-fall26/*
+    - grading-fall26/**
   github: sdsu-comp526/fall26
   thebe:
     binder:
