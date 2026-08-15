@@ -4,7 +4,7 @@ start:
 	jupyter book start
 
 build:
-	jupyter book build --html --execute
+	BASE_URL=/fall26/ jupyter book build --html --execute
 
 check:
 	jupyter book build --html --strict
