@@ -1,0 +1,52 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Computational Methods for Scientists Fall 26
+author: Valeria Barra
+logo: img/SDSU-comp526_logo.svg
+
+exclude_patterns: [.venv-jb2/*, README.md, grading-fall25/*]
+
+parse:
+  myst_enable_extensions:
+    - amsmath
+    - colon_fence
+    - dollarmath
+    - linkify
+    - substitution
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: auto
+  timeout:           120
+
+# Define the name of the latex output file for PDF builds
+latex:
+  use_jupyterbook_latex: true
+  latex_documents:
+    targetname: comp526_fall26_book.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/sdsu-comp526/fall26  # Online location of your book
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_issues_button: true
+  use_repository_button: true
+  favicon: img/SDSU-comp526_logo.svg
+
+launch_buttons:
+  thebe: true
+
+sphinx:
+  config:
+    html_extra_path: ["assets"]
+    myst_dmath_double_inline: true

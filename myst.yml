@@ -1,0 +1,35 @@
+version: 1
+project:
+  title: Computational Methods for Scientists Fall 26
+  authors:
+    - name: Valeria Barra
+  exclude:
+    - .venv-jb2/*
+    - README.md
+    - grading-fall26/*
+  github: sdsu-comp526/fall26
+  thebe:
+    binder:
+      repo: sdsu-comp526/fall26
+      provider: github
+      ref: main
+  bibliography:
+    - references.bib
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/comp526_fall26_book.pdf
+  toc:
+    - file: index.md
+    - file: syllabus.md
+    - file: lectures.md
+      children:
+        - file: lectures/module1-1_first_class.ipynb
+        - file: lectures/module1-2_linux.ipynb
+
+site:
+  options:
+    logo: img/SDSU-comp526_logo.svg
+    favicon: img/SDSU-comp526_logo.svg
+    folders: true
+  template: book-theme

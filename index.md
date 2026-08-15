@@ -40,5 +40,5 @@ Who am I?
 :::
 
 :::{note}
-This course website is powered by Jupyter Book 
+This course website is powered by Jupyter Book v2.
 :::
