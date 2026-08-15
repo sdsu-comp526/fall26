@@ -17,9 +17,21 @@ project:
   bibliography:
     - references.bib
   exports:
-    - format: pdf
-      template: plain_latex_book
-      output: exports/comp526_fall26_book.pdf
+  - format: pdf
+    template: plain_latex_book
+    output: exports/comp526_fall26_book.pdf
+    articles:
+      - file: syllabus.md
+        level: 1 # for section
+
+      - file: lectures.md
+        level: 1 # for section
+
+      - file: lectures/module1-1_first_class.ipynb
+        level: 0 # for chapter
+
+      - file: lectures/module1-2_linux.ipynb
+        level: 0 # for chapter
   toc:
     - file: index.md
     - file: syllabus.md
