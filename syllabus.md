@@ -131,6 +131,12 @@ The schedule is subject to change (the instructor will announce any changes).
 
 Any student who cannot attend class or submit assignments by their due date for serious issues (e.g., medical emergencies) or participation in university activities (e.g., official university travel for conferences or sports) that can be _documented_, should communicate those to your instructor as soon as possible before the deadline.
 
+How students can escalate issues or disputes:
+- Step 1: Talk to the Professor / Instructor of Record
+- Step 2: Talk to the Department/Center Chair
+- Step 3: Talk to the Assistant Dean for Student Affairs (Estralita Martin, College of Sciences)
+- Step 4: Meet with the Student Ombudsman
+
 ### Details on Midterm and Final projects
 
 #### Why community projects?
@@ -143,17 +149,19 @@ Over the course of the semester, you will follow the development activities of a
 
 Your Final Project will be to make a contribution to be merged by the project of your choice. Adding new examples and/or improving documentation are extremely valuable contributions, but you may also add features or improve implementations. You can also analyze an existing bug or working example, comment on the implementation performance, and compare with other similar implementations from other packages/libraries. Please respect the time of project maintainers and reviewers by learning about the project and its expectations and process, communicating in advance, and leaving plenty of time for multiple rounds of review and revision.
 
-## GitHub
+## GitHub and Classroom50
 
-We'll use Git with [Classroom50](https://github.com/foundation50/classroom50/) for managing activities and feedback. Check their [discussions board](https://github.com/foundation50/classroom50/discussions) for any potential issues or down times.
+We'll use Git with [Classroom50](https://classroom50.org/) for managing activities and feedback. Check their [discussions board](https://github.com/foundation50/classroom50/discussions) frequently for any potential issues or down times.
 
 :::{tip}
 If you don't have a GitHub account, follow these [instructions](https://sdsu-research-ci.github.io/github/students/creating-account) from the SDSU Research & Cyberinfrastructure [website](https://sdsu-research-ci.github.io/github) and [link it to your SDSUid](https://sdsu-research-ci.github.io/github/students/creating-account#linking-your-sdsuid).
-- Use a personal email account rather than the SDSU one, so that you won't have problems accessing your GitHub account in the future.
+- Use a personal email account as the primary email rather than the SDSU one, so that you won't have problems accessing your GitHub account in the future. But you also need to link your SDSU email to the account as a secondary email account. 
 - Choose your username wisely! Most likely you will use this again in professional settings in your career.
+- When accessing [Classroom50](https://classroom50.org/), use the same GitHub login.
+- Your instructor will collect all GitHub usernames.
 :::
 
-The **last commit** to the GitHub repository made before the deadlines will be the one used to determine your grade. Students can modify their submitted files as many times as they want before their due date without incurring in any late penalty fee. If students modify any submitted file after the posted deadline, they are subject to the late penalty fees outlined in the **Late submission policy** above.
+The **last commit** to the student repository made before the deadlines will be the one used to determine your grade. Students can modify their submitted files as many times as they want before their due date without incurring in any late penalty fee. If students modify any submitted file after the posted deadline, they are subject to the late penalty fees outlined in the **Late submission policy** above.
 
 ## Course materials, programming languages and environment
 
@@ -200,8 +208,7 @@ SDSU has strict codes of conduct and policies regarding [cheating and plagiarism
 
 This course requires you to complete various assignments that assess your understanding and application of the course content. You are expected to do your own work and cite any sources you use and collaborators (humans or not) appropriately. You are personally responsible for understanding and verifying the code that you submit and include appropriate documentation.
 
-The California State University system requires instructors to report all instances of academic misconduct to the Center for Student Rights and Responsibilities. Academic dishonesty will result in disciplinary review by the University and may lead to probation, suspension, or expulsion. Instructors may also, at their discretion, penalize student grades on any assignment discovered to have been
-produced in an academically dishonest manner such as cheating and plagiarism as described on the [Cheating and Plagiarism](https://sacd.sdsu.edu/student-rights/academic-dishonesty/cheating-and-plagiarism) page.
+The California State University system requires instructors to report all instances of academic misconduct to the Center for Student Rights and Responsibilities. Academic dishonesty will result in disciplinary review by the University and may lead to probation, suspension, or expulsion. Instructors may also, at their discretion, penalize student grades on any assignment discovered to have been produced in an academically dishonest manner such as cheating and plagiarism as described on the [Cheating and Plagiarism](https://sacd.sdsu.edu/student-rights/academic-dishonesty/cheating-and-plagiarism) page.
 
 In May 2024, the University Senate extended its definition of plagiarism to include the un-cited use of generative AI applications, specifically: "representing work produced by generative Artificial Intelligence as one’s own." Academic freedom ensures that instructors are empowered to determine whether students may use genAI in their classes and to what extent. To minimize confusion, we report here a statement regarding the use of AI in this class.
 
@@ -216,7 +223,7 @@ In May 2024, the University Senate extended its definition of plagiarism to incl
 Given these important ethical caveats, it is crucial for students to learn how to use these tools and other online resources (e.g., [stackoverflow.com](https://stackoverflow.com/questions)) responsibly. For my class
 
 - You **must acknowledge and cite** use of examples and aids that you include in your assignments, whether from LLMs or other sources. 
-- You must clearly identify the use of AI-based tools in your work. Any work that utilizes AI-based tools must be clearly marked as such, including the specific tool(s) used. For example, if you use ChatGPT-3, you must cite "ChatGPT-5. (YYYY, Month DD of query). "Text of your query and answers". Or you can simply share a link to your chat.
+- You must clearly identify the use of AI-based tools in your work. Any work that utilizes AI-based tools must be clearly marked as such, including the specific tool(s) used. For example, if you use ChatGPT-5, you must cite "ChatGPT-5. (YYYY, Month DD of query). "Text of your query and answers". Or you can simply share a link to your chat.
 - You must not use AI-based tools to write commentaries/reports/essays, but use **your own words** for those.
 - You must be transparent in how you used the AI-based tool, including what work is your original contribution.
 - You must ensure your use of AI-based tools does not violate any copyright or intellectual property law.
@@ -224,6 +231,8 @@ Given these important ethical caveats, it is crucial for students to learn how t
 - You must not use AI-based tools to plagiarize without citation.
 
 In order to prevent misuse of these tools and to ensure students are adequately learning the material, the Instructor may ask students in class or during office hours about certain topics covered in this course after they have been introduced and the students' answers will contribute to the overall assessment and grades. Instructors and graders/TAs may also use AI detector tools. If you are found in violation of this policy, you may face penalties such as a reduction in grade, failure of the assignment or assessment, or even failure of the course. Finally, it's your responsibility to be aware of the academic integrity policy and take the necessary steps to ensure that your use of AI-based tools is in compliance with this policy. 
+
+The instructor has not used genAI to create any of the course materials and might resort to generative AI tools only to detect plagiarism and cheating during the grading process.
 
 ## Sexual Misconduct, Discrimination, Harassment and/or Related Retaliation
 
