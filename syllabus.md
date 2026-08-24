@@ -68,9 +68,9 @@ Next up will be an introduction to linear algebra, interpolation, and then diffe
 
 We'll move on to integration and finally numerical solution of differential equations.
 
-Although we'll continue with new content, during the semester we will have two separate short modules on compiled languages programming: C and Fortran.
+Although we'll continue with new content, during the semester we will have two separate short modules on compiled programming languages: C and Fortran.
 
-Towards the end of the semester, for your final projects, you can then form small teams of like interest and work on an original study (numerical experiments and interpretation, comparisons, etc.) or on contribution to be shared with the community. Studies and contributions can take many forms.
+Towards the middle of the semester, for your midterm and final projects, you can start work on an original study (numerical experiments and interpretation, comparisons, etc.) and form a contribution to be shared with the community. Studies and contributions can take many forms.
 
 ## Student Learning Outcomes
 
@@ -97,7 +97,7 @@ Upon completing this course, students will be able to
 
 ## Assessment, grading policy and schedule
 
-This class will have some assignments and projects (midterm and final). The final projects can be individual or group projects (depending on the number of students registered) and will be agreed upon with the instructor. There will be a midterm and a final oral presentation for each project. Moreover, a final report must be delivered. Instructions about what is expected for both midterm and final presentations as well as for the final report will be provided.
+This class will have some assignments and projects (midterm and final). The midterm and final projects most likely will be individual projects (depending on the number of students registered) and will be agreed upon with the instructor. There will a final oral presentation for each project. Moreover, a written final report must be delivered. Instructions about what is expected for both midterm and final presentations as well as for the final report will be provided.
 
 Grading breakdown:
 - Participation (can include engagement in class, attendance, use of office hours, etc) (5% - includes a graded quiz (1%) with due date **Monday Sep 7, 2026**, by midnight (AOE))
@@ -135,7 +135,7 @@ How students can escalate issues or disputes:
 - Step 1: Talk to the Professor / Instructor of Record
 - Step 2: Talk to the Department/Center Chair
 - Step 3: Talk to the Assistant Dean for Student Affairs (Estralita Martin, College of Sciences)
-- Step 4: Meet with the Student Ombudsman
+- Step 4: Meet with the Student Ombudsman.
 
 ### Details on Midterm and Final projects
 
@@ -165,9 +165,11 @@ The **last commit** to the student repository made before the deadlines will be 
 
 ## Course materials, programming languages and environment
 
-I will provide all free course materials and suggested readings on the [class website](https://sdsu-comp526.github.io/fall26/). If you prefer to read a print-out version, please talk to me. I will primarily use Julia and [Jupyter notebooks](https://jupyter.org/) for slides and activities in class. This environment is convenient to work with, general purpose, and has extensive library support.  It is possible to write fast code in Julia, though performance implications can be mysterious. C, C++, and Fortran are popular languages for writing production numerical software, sometimes called from a higher level programming language like Python. MATLAB is also popular for numerical computing, though it is a proprietary environment and lacks general-purpose libraries.
+I will provide all free course materials and suggested readings on the [**course website**](https://sdsu-comp526.github.io/fall26/). If you prefer to read a print-out version, please talk to me. I will primarily use Julia and [Jupyter notebooks](https://jupyter.org/) for slides and activities in class. This environment is convenient to work with, general purpose, and has extensive library support. 
 
-Most HPC facilities use a Linux operating system and many open source software packages and libraries will have the best documentation and testing on Linux systems. You can use any environment for your local development environment, or use the SDSU's [JupyterHub](https://jupyterhub.sdsu.edu/) to experiment and develop without a local install. If you have never logged in before, check SDSU's Research & Cyberinfrastructure [resources for students](https://sdsu-research-ci.github.io/instructionalcluster/students).
+It is possible to write fast code in Julia, though performance implications can be mysterious. C, C++, and Fortran are popular languages for writing production numerical software, sometimes called from a higher level programming language like Python. MATLAB is also popular for numerical computing, though it is a proprietary environment and lacks general-purpose libraries.
+
+Most high-performance computing (HPC) facilities use a Linux operating system and many open source software packages and libraries will have the best documentation and testing on Linux systems. You can use any environment for your local development environment, or use the SDSU's [JupyterHub](https://jupyterhub.sdsu.edu/) to experiment and develop without a local install. If you have never logged in before, check SDSU's Research & Cyberinfrastructure [resources for students](https://sdsu-research-ci.github.io/instructionalcluster/students).
 
 ## Target audience
 
