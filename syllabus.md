@@ -100,8 +100,8 @@ Upon completing this course, students will be able to
 This class will have some assignments and projects (midterm and final). The final projects can be individual or group projects (depending on the number of students registered) and will be agreed upon with the instructor. There will be a midterm and a final oral presentation for each project. Moreover, a final report must be delivered. Instructions about what is expected for both midterm and final presentations as well as for the final report will be provided.
 
 Grading breakdown:
-- Participation (can include engagement in class, attendance, use of office hours, etc) (5% - includes a graded quiz (1%) with due date **TBD**, by midnight (AOE))
-- Assignment 1 (10%): due date **TBD**, by midnight (AOE)
+- Participation (can include engagement in class, attendance, use of office hours, etc) (5% - includes a graded quiz (1%) with due date **Monday Sep 7, 2026**, by midnight (AOE))
+- Assignment 1 (10%): due date **Friday Sep 11, 2026**, by midnight (AOE)
 - Assignment 2 (10%): due date **TBD**, by midnight (AOE)
 - Assignment 3 (10%): due date **TBD**, by midnight (AOE)
 - Assignment 4 (10%): due date **TBD**, by midnight (AOE)
@@ -157,7 +157,7 @@ We'll use Git with [Classroom50](https://classroom50.org/) for managing activiti
 If you don't have a GitHub account, follow these [instructions](https://sdsu-research-ci.github.io/github/students/creating-account) from the SDSU Research & Cyberinfrastructure [website](https://sdsu-research-ci.github.io/github) and [link it to your SDSUid](https://sdsu-research-ci.github.io/github/students/creating-account#linking-your-sdsuid).
 - Use a personal email account as the primary email rather than the SDSU one, so that you won't have problems accessing your GitHub account in the future. But you also need to link your SDSU email to the account as a secondary email account. 
 - Choose your username wisely! Most likely you will use this again in professional settings in your career.
-- When accessing [Classroom50](https://classroom50.org/), use the same GitHub login.
+- When accessing [Classroom50](https://classroom50.org/), choose "Sign in with GitHub" as a login mode.
 - Your instructor will collect all GitHub usernames.
 :::
 
