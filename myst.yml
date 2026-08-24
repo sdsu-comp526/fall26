@@ -43,6 +43,6 @@ project:
 site:
   options:
     logo: img/SDSU-comp526_logo.svg
-    favicon: img/favicon.jpg
+    favicon: img/favicon.ico
     folders: true
   template: book-theme
