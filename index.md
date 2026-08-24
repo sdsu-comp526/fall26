@@ -20,6 +20,7 @@ Who am I?
 :::{admonition} Resources
 
 * [SIAM Membership](http://www.siam.org/students/memberships.php) is free for students (30% discount on SIAM books)
+* I serve as the faculty sponsor for SDSU's [Association for Women in Mathematics](https://awm-math.org/) Student Chapter. Get in touch if you wish to join!
 * Books
   * [Driscoll and Braun, **Fundamentals of Numerical Computation**](https://tobydriscoll.net/fnc-julia/)
     * free, in Julia with demo notebooks and [Julia codes](https://github.com/fncbook/FundamentalsNumericalComputation.jl?tab=readme-ov-file)
