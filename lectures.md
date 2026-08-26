@@ -82,6 +82,19 @@ You can open these notebooks as normal notebooks (continuous scroll). If you wis
 * When saving, use `Kernel -> Restart & Clear Output` to keep the stored data and diffs in the notebook small.
 * For your images, several formats will do. Just keep in mind that PDF files are not web-friendly. PDF images can be converted to SVG using `pdf2svg`, and the result will still look sharp (unlike PNG) no matter the scale or zoom.
 
+(ides-or-editors)=
+### IDEs or editors
+
+We mentioned Integrated Development Environments (IDEs) briefly in class. These are very fancy "editors". Strictly speaking, you can modify code with any text editor. You don't necessarily need to use an IDE. But using an IDE might make your like a lot easier and can help boost your productivity. 
+
+An IDE normally consists of at least a source-code editor, build automation tools, and a debugger. But they can also have nice features like syntax highliting, code completion, refactoring, code search, and language support, just to name a few.
+
+One of the most popular IDEs at the moment is [VSCode](https://code.visualstudio.com/). 
+
+VSCode supports many different "plug-ins" or extensions that can facilitate your work. One of the most useful one, if you want to collaborate live with others, is the [LiveShare](https://learn.microsoft.com/en-us/visualstudio/liveshare/) extension. LiveShare enables you to quickly collaborate in real time with a friend, classmate, or professor on the same code without the need to sync code or to configure the same development tools, settings, or environment.
+
+For this course, I also recommend at least the  [`GitLens`](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens), the [`Julia`](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia), and the [`Jupyter`](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) extension; but you may find other extensions useful.
+
 ## Acknowledgements
 
 For most of this course’s materials, I owe huge thanks to my postdoc mentor, [Jed Brown](https://jedbrown.org/), Associate Professor at CU Boulder. For some exercises, I am also very grateful to [Jeremy Thompson](https://www.colorado.edu/cs/jeremy-thompson), Assistant Research Professor at CU Boulder.
