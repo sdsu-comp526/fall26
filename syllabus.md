@@ -195,7 +195,7 @@ Every student is encouraged to read the [SDSU Student Academic Success Handbook]
 
 ## Accommodation for Disabilities
 
-If you think you may qualify for accommodations because of a disability, please contact [SDSU Student Ability Success Center](https://sds.sdsu.edu/) and make your faculty member aware in a timely manner so that your needs can be addressed. Please allow 10-14 business days for this process.
+If you think you may qualify for accommodations because of a disability, please contact [SDSU Student Disability Services](https://sds.sdsu.edu/) and make your faculty member aware in a timely manner so that your needs can be addressed. Please allow 10-14 business days for this process.
 
 
 ## Preferred Student Names and Pronouns
