@@ -32,6 +32,9 @@ project:
 
       - file: lectures/module1-2_linux.ipynb
         level: 0 # for chapter
+
+      - file: lectures/module1-3_community_projects.md
+        level: 0 # for chapter
   toc:
     - file: index.md
     - file: syllabus.md
@@ -39,6 +42,7 @@ project:
       children:
         - file: lectures/module1-1_first_class.ipynb
         - file: lectures/module1-2_linux.ipynb
+        - file: lectures/module1-3_community_projects.md
 
 site:
   options:
