@@ -35,6 +35,12 @@ project:
 
       - file: lectures/module1-3_community_projects.md
         level: 0 # for chapter
+
+      - file: lectures/module2-1_intro_to_c.md
+        level: 0 # for chapter
+
+      - file: lectures/module2-2_c_pointers.md
+        level: 0 # for chapter
   toc:
     - file: index.md
     - file: syllabus.md
@@ -43,6 +49,8 @@ project:
         - file: lectures/module1-1_first_class.ipynb
         - file: lectures/module1-2_linux.ipynb
         - file: lectures/module1-3_community_projects.md
+        - file: lectures/module2-1_intro_to_c.md
+        - file: lectures/module2-2_c_pointers.md
 
 site:
   options:
