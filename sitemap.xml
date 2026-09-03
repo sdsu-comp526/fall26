@@ -19,4 +19,10 @@
   <url>
     <loc>http://localhost:3000/lectures/module1-3-community-projects</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/lectures/module2-1-intro-to-c</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/lectures/module2-2-c-pointers</loc>
+  </url>
 </urlset>
