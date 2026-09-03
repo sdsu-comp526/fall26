@@ -215,7 +215,7 @@ Value of ∗iptr variable: 20
 Value of int variable: 20
 ```
 
-### Exercise 13.1
+### Exercise 5.1
 Check out and run the `pointer-dereferencing.c` program.
 
 ### A word on NULL pointers
