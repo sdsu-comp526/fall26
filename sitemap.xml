@@ -28,4 +28,7 @@
   <url>
     <loc>http://localhost:3000/lectures/module2-3-c-structs-and-functions</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/lectures/module2-4-c-memory</loc>
+  </url>
 </urlset>
