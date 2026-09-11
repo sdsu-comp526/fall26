@@ -1,4 +1,4 @@
-# 15) C memory
+# 7) C memory
 
 Today:
  1. Pass by value Vs Pass by reference
