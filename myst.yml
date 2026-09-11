@@ -44,6 +44,9 @@ project:
 
       - file: lectures/module2-3_c_structs_and_functions.md
         level: 0 # for chapter
+
+      - file: lectures/module2-4_c_memory.md
+        level: 0 # for chapter
         
   toc:
     - file: index.md
@@ -56,6 +59,7 @@ project:
         - file: lectures/module2-1_intro_to_c.md
         - file: lectures/module2-2_c_pointers.md
         - file: lectures/module2-3_c_structs_and_functions.md
+        - file: lectures/module2-4_c_memory.md
 
 site:
   options:
