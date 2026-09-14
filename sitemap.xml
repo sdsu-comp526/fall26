@@ -34,4 +34,7 @@
   <url>
     <loc>http://localhost:3000/lectures/module3-1-functions-and-fpa</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/lectures/module3-2-function-errors</loc>
+  </url>
 </urlset>
