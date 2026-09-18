@@ -53,6 +53,9 @@ project:
 
       - file: lectures/module3-2_function_errors.ipynb
         level: 0 # for chapter
+
+      - file: lectures/module3-3_conditioning.ipynb
+        level: 0 # for chapter
         
   toc:
     - file: index.md
@@ -68,6 +71,7 @@ project:
         - file: lectures/module2-4_c_memory.md
         - file: lectures/module3-1_functions_and_fpa.ipynb
         - file: lectures/module3-2_function_errors.ipynb
+        - file: lectures/module3-3_conditioning.ipynb
 
 site:
   options:
