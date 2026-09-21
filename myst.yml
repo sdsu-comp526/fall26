@@ -56,6 +56,9 @@ project:
 
       - file: lectures/module3-3_conditioning.ipynb
         level: 0 # for chapter
+
+      - file: lectures/module3-4_root_finding.ipynb
+        level: 0 # for chapter
         
   toc:
     - file: index.md
@@ -72,6 +75,7 @@ project:
         - file: lectures/module3-1_functions_and_fpa.ipynb
         - file: lectures/module3-2_function_errors.ipynb
         - file: lectures/module3-3_conditioning.ipynb
+        - file: lectures/module3-4_root_finding.ipynb
 
 site:
   options:
