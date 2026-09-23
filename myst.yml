@@ -62,6 +62,9 @@ project:
 
       - file: lectures/module3-5_convergence_classes.ipynb
         level: 0 # for chapter
+
+      - file: lectures/module3-6_newton.ipynb
+        level: 0 # for chapter
         
   toc:
     - file: index.md
@@ -80,6 +83,7 @@ project:
         - file: lectures/module3-3_conditioning.ipynb
         - file: lectures/module3-4_root_finding.ipynb
         - file: lectures/module3-5_convergence_classes.ipynb
+        - file: lectures/module3-6_newton.ipynb
 
 site:
   options:
