@@ -25,7 +25,7 @@ Historically, Fortran 77, is an older version of the language that still is ofte
 You compile a program by typing a line similar to the following:
 
 ```bash
-gfortran do_nothing.f -o do_nothing
+gfortran myprogram.f -o myprogram
 ```
 
 It is important that you understand what is happening here:
