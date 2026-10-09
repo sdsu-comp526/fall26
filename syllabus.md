@@ -100,10 +100,10 @@ Upon completing this course, students will be able to
 This class will have some assignments and projects (midterm and final). The midterm and final projects most likely will be individual projects (depending on the number of students registered) and will be agreed upon with the instructor. There will a final oral presentation for each project. Moreover, a written final report must be delivered. Instructions about what is expected for both midterm and final presentations as well as for the final report will be provided.
 
 Grading breakdown:
-- Participation (can include engagement in class, attendance, use of office hours, etc) (5% - includes a graded quiz (1%) with due date **Monday Sep 7, 2026**, by midnight (AOE))
-- Assignment 1 (10%): due date **Friday Sep 11, 2026**, by midnight (AOE)
+- Participation (can include engagement in class, attendance, use of office hours, etc) (5% - includes a graded quiz (1%) with due date **Monday, Sep 7, 2026**, by midnight (AOE))
+- Assignment 1 (10%): due date **Friday, Sep 11, 2026**, by midnight (AOE)
 - Assignment 2 (10%): due date **Wednesday, Sep 30, 2026**, by midnight (AOE)
-- Assignment 3 (10%): due date **TBD**, by midnight (AOE)
+- Assignment 3 (10%): due date **Friday, Oct 16, 2026**, by midnight (AOE)
 - Assignment 4 (10%): due date **TBD**, by midnight (AOE)
 
 AOE: Anywhere on Earth time zone. This time zone is 12 hours behind Coordinated Universal Time (UTC) and typically used for online submissions to accommodate people from different time zones. Given that this course is taught in person in the Pacific standard time, I use this not really to facilitate submissions from different time zones, but to allow people not to worry about submitting by midnight sharp. This does _not_ mean that I encourage people working late. I actually advocate for a healthy work/life balance for everyone (students and instructors alike).
