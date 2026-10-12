@@ -74,6 +74,9 @@ project:
       
       - file: lectures/module5-1_linear_algebra.ipynb
         level: 0 # for chapter
+
+      - file: lectures/module5-2_gram_schmidt.ipynb
+        level: 0 # for chapter
         
   toc:
     - file: index.md
@@ -96,6 +99,7 @@ project:
         - file: lectures/module3-7_stability.ipynb
         - file: lectures/module4-1_intro_to_fortran.md
         - file: lectures/module5-1_linear_algebra.ipynb
+        - file: lectures/module5-2_gram_schmidt.ipynb
 
 site:
   options:
