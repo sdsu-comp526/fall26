@@ -80,6 +80,9 @@ project:
       
       - file: lectures/module5-3_householder.ipynb
         level: 0 # for chapter
+
+      - file: lectures/module5-4_cholesky_qr.ipynb
+        level: 0 # for chapter
         
   toc:
     - file: index.md
@@ -104,6 +107,7 @@ project:
         - file: lectures/module5-1_linear_algebra.ipynb
         - file: lectures/module5-2_gram_schmidt.ipynb
         - file: lectures/module5-3_householder.ipynb
+        - file: lectures/module5-4_cholesky_qr.ipynb
 
 site:
   options:
