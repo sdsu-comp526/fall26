@@ -67,4 +67,7 @@
   <url>
     <loc>http://localhost:3000/lectures/module5-4-cholesky-qr</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/lectures/module5-5-solving-systems</loc>
+  </url>
 </urlset>
