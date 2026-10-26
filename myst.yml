@@ -89,6 +89,9 @@ project:
 
       - file: lectures/module5-6_matrix_conditioning_and_svd.ipynb
         level: 0 # for chapter
+
+      - file: lectures/module5-8_svd_and_conditioning.ipynb
+        level: 0 # for chapter
         
   toc:
     - file: index.md
@@ -116,6 +119,7 @@ project:
         - file: lectures/module5-4_cholesky_qr.ipynb
         - file: lectures/module5-5_solving_systems.ipynb
         - file: lectures/module5-6_matrix_conditioning_and_svd.ipynb
+        - file: lectures/module5-8_svd_and_conditioning.ipynb
 
 site:
   options:
