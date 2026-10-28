@@ -92,6 +92,9 @@ project:
 
       - file: lectures/module5-7_svd_and_conditioning.ipynb
         level: 0 # for chapter
+
+      - file: lectures/module5-9_low_rank.ipynb
+        level: 0 # for chapter
         
   toc:
     - file: index.md
@@ -120,6 +123,7 @@ project:
         - file: lectures/module5-5_solving_systems.ipynb
         - file: lectures/module5-6_matrix_conditioning_and_svd.ipynb
         - file: lectures/module5-7_svd_and_conditioning.ipynb
+        - file: lectures/module5-9_low_rank.ipynb
 
 site:
   options:
