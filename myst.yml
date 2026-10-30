@@ -95,6 +95,9 @@ project:
 
       - file: lectures/module5-9_low_rank.ipynb
         level: 0 # for chapter
+
+      - file: lectures/module6-1_interpolation.ipynb
+        level: 0 # for chapter
         
   toc:
     - file: index.md
@@ -124,6 +127,7 @@ project:
         - file: lectures/module5-6_matrix_conditioning_and_svd.ipynb
         - file: lectures/module5-7_svd_and_conditioning.ipynb
         - file: lectures/module5-9_low_rank.ipynb
+        - file: lectures/module6-1_interpolation.ipynb
 
 site:
   options:
