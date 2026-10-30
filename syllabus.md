@@ -113,9 +113,9 @@ AOE: Anywhere on Earth time zone. This time zone is 12 hours behind Coordinated 
     * Part 2, due **Friday Oct 30, 2026**, by midnight (AOE): Community project contribution proposal and creation of an Issue.
 
 - **Final Project** (35%): This project is broken down in three deadlines. Please note that Canvas does not allow setting multiple parts with different deadlines for a given assignment. For the **Final Project**, I will set the **latest of the three** deadlines on **Canvas**.
-    * Part 1, due **TBD** by midnight (AOE): Creation of a Pull/Merge Request
-    * Part 2, **TBD**: In class oral presentations.
-    * Part 3, due **TBD**, by midnight (AOE): submission of Final Project Report.
+    * Part 1, due **Wednesday Nov. 18, 2026** by midnight (AOE): Creation of a Pull/Merge Request. Your PR/MR should be **finalized** no later than **Wednesday**, **November 25, 2026**.
+    * Part 2, **Wednesday Dec. 09, 2026**, and **Friday Dec. 11, 2026**: In class oral presentations.
+    * Part 3, due **Friday Dec. 11, 2026**, by midnight (AOE): submission of Final Project Report and any accompanying files (codes, slides, etc).
 
 Assignments will be distributed no later than a week prior to the due date.
 
