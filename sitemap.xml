@@ -82,4 +82,7 @@
   <url>
     <loc>http://localhost:3000/lectures/module6-1-interpolation</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/lectures/module6-2-chebyshev-poly</loc>
+  </url>
 </urlset>
