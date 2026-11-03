@@ -85,4 +85,7 @@
   <url>
     <loc>http://localhost:3000/lectures/module6-2-chebyshev-poly</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/lectures/module6-4-higher-dimensions</loc>
+  </url>
 </urlset>
