@@ -101,6 +101,9 @@ project:
 
       - file: lectures/module6-2_chebyshev_poly.ipynb
         level: 0 # for chapter
+
+      - file: lectures/module6-4_higher_dimensions.ipynb
+        level: 0 # for chapter
         
   toc:
     - file: index.md
@@ -132,6 +135,7 @@ project:
         - file: lectures/module5-9_low_rank.ipynb
         - file: lectures/module6-1_interpolation.ipynb
         - file: lectures/module6-2_chebyshev_poly.ipynb
+        - file: lectures/module6-4_higher_dimensions.ipynb
 
 site:
   options:
