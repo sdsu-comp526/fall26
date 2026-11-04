@@ -104,6 +104,9 @@ project:
 
       - file: lectures/module6-4_higher_dimensions.ipynb
         level: 0 # for chapter
+
+      - file: lectures/module6-5_noisy_data.ipynb
+        level: 0 # for chapter
         
   toc:
     - file: index.md
@@ -136,6 +139,7 @@ project:
         - file: lectures/module6-1_interpolation.ipynb
         - file: lectures/module6-2_chebyshev_poly.ipynb
         - file: lectures/module6-4_higher_dimensions.ipynb
+        - file: lectures/module6-5_noisy_data.ipynb
 
 site:
   options:
