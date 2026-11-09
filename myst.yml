@@ -101,6 +101,9 @@ project:
 
       - file: lectures/module6-2_chebyshev_poly.ipynb
         level: 0 # for chapter
+      
+      - file: lectures/module6-3_splines.ipynb
+        level: 0 # for chapter
 
       - file: lectures/module6-4_higher_dimensions.ipynb
         level: 0 # for chapter
@@ -108,9 +111,12 @@ project:
       - file: lectures/module6-5_noisy_data.ipynb
         level: 0 # for chapter
 
-      - file: lectures/module6-3_splines.ipynb
+      - file: lectures/module7-1_integration.ipynb
         level: 0 # for chapter
-        
+
+      - file: lectures/module7-2_quadrature.ipynb
+        level: 0 # for chapter
+
   toc:
     - file: index.md
     - file: syllabus.md
@@ -144,6 +150,8 @@ project:
         - file: lectures/module6-3_splines.ipynb
         - file: lectures/module6-4_higher_dimensions.ipynb
         - file: lectures/module6-5_noisy_data.ipynb
+        - file: lectures/module7-1_integration.ipynb
+        - file: lectures/module7-2_quadrature.ipynb
 
 site:
   options:
