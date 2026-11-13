@@ -100,4 +100,7 @@
   <url>
     <loc>http://localhost:3000/lectures/module7-2-quadrature</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/lectures/module7-3-quadrature-transforms</loc>
+  </url>
 </urlset>
