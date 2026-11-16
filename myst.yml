@@ -120,6 +120,9 @@ project:
       - file: lectures/module7-3_quadrature_transforms.ipynb
         level: 0 # for chapter
 
+      - file: lectures/module7-4_beyond_linear_models.ipynb
+        level: 0 # for chapter
+
   toc:
     - file: index.md
     - file: syllabus.md
@@ -156,6 +159,7 @@ project:
         - file: lectures/module7-1_integration.ipynb
         - file: lectures/module7-2_quadrature.ipynb
         - file: lectures/module7-3_quadrature_transforms.ipynb
+        - file: lectures/module7-4_beyond_linear_models.ipynb
 
 site:
   options:
