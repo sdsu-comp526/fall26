@@ -106,4 +106,10 @@
   <url>
     <loc>http://localhost:3000/lectures/module7-4-beyond-linear-models</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/lectures/module7-5-gradient-descent</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/lectures/module8-1-differentiation</loc>
+  </url>
 </urlset>
