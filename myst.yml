@@ -129,6 +129,9 @@ project:
       - file: lectures/module8-1_differentiation.ipynb
         level: 0 # for chapter
 
+      - file: lectures/module8-2_odes.ipynb
+        level: 0 # for chapter
+
   toc:
     - file: index.md
     - file: syllabus.md
@@ -168,6 +171,7 @@ project:
         - file: lectures/module7-4_beyond_linear_models.ipynb
         - file: lectures/module7-5_gradient_descent.ipynb
         - file: lectures/module8-1_differentiation.ipynb
+        - file: lectures/module8-2_odes.ipynb
 
 site:
   options:
