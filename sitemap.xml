@@ -112,4 +112,7 @@
   <url>
     <loc>http://localhost:3000/lectures/module8-1-differentiation</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/lectures/module8-2-odes</loc>
+  </url>
 </urlset>
